@@ -1,0 +1,39 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    background: white;
+}
+
+.main{    
+    height: auto;
+    width: auto;
+    background-color: white;
+}
+
+header{
+    height: 70px;
+    width: auto;
+    border: solid;
+}
+
+.menu{
+height: 500px;
+width: auto;
+border: solid red;
+display: flex;
+
+}
+
+nav{
+    width: 250px;
+    height: 500px;
+    border: solid;
+
+}
+
+.banner{
+    width: 500px;
+    height: 500px;
+    border: solid pink;
+}
